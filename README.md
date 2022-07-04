@@ -38,11 +38,11 @@ I have spent the last few months building web3 projects, learning and writing ab
 </p> -->
 More articles on <a target="_blank" href="https://aishatakinyemi.com"><img src="https://img.shields.io/badge/BlockishDev-aishatakinyemi.com-blue?style=plastic" /></a>
 
-
-<!-- ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishat-akinyemi&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
-[![Aishat's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishat-akinyemi&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=aishat-akinyemi&theme=radical&count_private=true&show_icons=true">
+  </a>
+</p>
 
 
