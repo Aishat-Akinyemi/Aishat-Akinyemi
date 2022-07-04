@@ -6,7 +6,7 @@ I have spent the last few months building web3 projects, learning and writing ab
 
 - 🌱 I'm currently building a web3 hackathon project, and strengthening my Rust by building a blockchain in Rust. 
 - 👯 I’m looking to collaborate on hackathons where I can work on the smartcontracts and you work on FE. 
-- 🤔 I’m looking for help with job recommendations, connections and gigs. 
+- 🤔 I’m open to work and would appreciate web3 software development job recommendations, and technical writing gigs. 
 - 💬 Ask me about web3, decentralization and security.
 - ⚡ Fun facts: I enjoy reading or watching thrillers, non-fiction/documentaries. My fav TV series is Becker and I binge watch  cooking shows  when bored😋. 
   As an undergrad, I used to work as a sales representative for Avon SA. I would love to learn how to ride a bicycle and swim. 
@@ -33,9 +33,6 @@ I have spent the last few months building web3 projects, learning and writing ab
 - [Near AssemblyScript smartcontract project from scracth.](https://aishatakinyemi.com/how-to-create-near-assemblyscript-smart-contract-project)
 
 <!-- BLOG-POST-LIST:END -->
-<!-- <p align="center" align='right'>  
-  <a target="_blank"href="https://aishatakinyemi.com"><img src="https://img.shields.io/badge/BlockishDev-aishatakinyemi.com-blue?style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;
-</p> -->
 More articles on <a target="_blank" href="https://aishatakinyemi.com"><img src="https://img.shields.io/badge/BlockishDev-aishatakinyemi.com-blue?style=plastic" /></a>
 
 ---
