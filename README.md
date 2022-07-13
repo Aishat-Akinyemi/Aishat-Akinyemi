@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Aishat Akinyemi
+## Hi there👋🏽 I'm Aishat Akinyemi
 
 I'm an experienced software engineer and technical writer with interests in web3.  
 
